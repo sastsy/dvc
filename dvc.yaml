@@ -1,0 +1,5 @@
+stages:
+  train:
+    cmd: python iris.py
+    outs:
+    - dvclive
